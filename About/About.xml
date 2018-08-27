@@ -2,8 +2,7 @@
 <ModMetaData>
 	<name>Custom Map Sizes</name>
 	<author>Celestial</author>
-	<targetVersion>0.18.0</targetVersion>
+	<targetVersion>0.18.1722</targetVersion>
 	<url></url>
-	<description>Version: 1
-Allows users to set a custom map size to be generated in game.	
+	<description>Allows users to set a custom map size to be generated in game.</description>
 </ModMetaData>
