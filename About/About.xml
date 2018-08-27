@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Custom Map Sizes</name>
+	<author>Celestial</author>
+	<targetVersion>0.18.0</targetVersion>
+	<url></url>
+	<description>Version: 1
+Allows users to set a custom map size to be generated in game.	
+</ModMetaData>
